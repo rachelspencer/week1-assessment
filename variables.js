@@ -21,10 +21,19 @@
 */
 
 //CODE HERE
+const faveNum = 13;
 
+if (faveNum){
+  console.log('lucky 13!');
+} else {
+  console.log('not lucky 13');
+}
 //////////////////PROBLEM 5////////////////////
 /*
   Write a for loop that prints out your faveNum 5 times.
 */
 
 //CODE HERE
+for (i = 0; i < 5; i++){
+  console.log('favNum');
+}
